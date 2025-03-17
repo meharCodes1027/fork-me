@@ -22,3 +22,15 @@ Searches/
 Videos/
 ntuser.*
 pemhttpd.exe
+.bash_history
+.cursor/
+.gitconfig
+.lesshst
+.ssh/
+.vscode/
+3D Objects/
+fork-me/
+git_practice/
+my-project/
+repo/
+testrepo/
