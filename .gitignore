@@ -1,36 +1,11 @@
-Application Data/
-Cookies/
-Local Settings/
-My DOcuments/
-NetHood/
-PrintHood/
-Recent/
-SendTo/
-Start Menu/
-Templates/
-AppData/
-Contacts/
-Documents/
-Downloads/
-Favorites/
-Links/
-Music/
-NTUSER>DAT*
-OneDrive/
-Saved GAmes/
-Searches/
-Videos/
-ntuser.*
-pemhttpd.exe
+.viminfo
+.viminfo
+gitpush/
+open-source-practice/
+sems-2/
 .bash_history
-.cursor/
-.gitconfig
-.lesshst
-.ssh/
-.vscode/
-3D Objects/
-fork-me/
-git_practice/
-my-project/
+AppData/
+ntuser.dat*
+pemhttpd.exe
 repo/
 testrepo/
